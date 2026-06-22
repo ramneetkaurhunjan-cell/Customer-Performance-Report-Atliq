@@ -28,9 +28,10 @@ I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and
 ![Bottom 5 Products](Bottom5productbyQty.png)
 
 
-## Tools Used
+## Tools & Skills
 - Excel (PivotTables, Power Query, Power Pivot)
 - Data Cleaning & Transformation
+- Dashboard Creation
 
 ## Next Steps
 I will build a 3-year Profit & Loss (P&L) dashboard on a new dataset to showcase financial reporting skills.
