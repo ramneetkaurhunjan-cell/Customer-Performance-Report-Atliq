@@ -13,20 +13,24 @@ I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and
 - India led 2021 sales with **$161M**.
 
 ## Dashboard Screenshots
-### Top 10 Products
-![Top 10 Products](Top10Products.png)
 
-### Top 5 Product base on Qty sold 
-![Top 5 Products by Qty](Top5ProductsbyQty.png)
-
-### Bottom 5 Product base on Qty sold 
-![Bottom 5 Product by Qty](Bottom5ProductsbyQty.png)
+### Bottom 5 Products
+![Bottom 5 Products](N7Eemef6Fv5aCgLusBedq.png)
 
 ### Division Report
-![Division Report](DivisionReport.png)
+![Division Report](kgocUuBtmJXPu3HcyLu5N.png)
+
+### New Products
+![New Products](fZy56ZohP9jY7yoTULLi9.png)
+
+### Top 10 Products
+![Top 10 Products](qa5Y5zVk5z8juW4J9M3S7.png)
+
+### Top 5 Products
+![Top 5 Products](BA343CjNSQh9aquG4G7mv.png)
 
 ### Top 5 Countries
-![Top 5 Countries](Top5Countries.png)
+![Top 5 Countries](JovnpwgHEGMo3d7KsusVA.png)
 
 ## Tools Used
 - Excel (Data Cleaning,PivotTables, Power Query, Power Pivot)
