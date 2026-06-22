@@ -1,5 +1,4 @@
-# Customer-Performance-Report-Atliq
-Excel project analyzing Atliq Hardware’s customer performance using Power Query and PivotTable
+# Customer Performance Report – Atliq Hardware
 
 This project was part of my Codebasics Data Analytics Bootcamp.  
 I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and Power Pivot.
@@ -13,29 +12,29 @@ I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and
 - India led 2021 sales with **$161M**.
 
 ## Dashboard Screenshots
-
-### Bottom 5 Products
-![Bottom 5 Products](Bottom5productbyQty.png)
+### Top 10 Products
+![Top 10 Products](Top10Products.png)
 
 ### Division Report
-![Division Report](Divisionreport.png)
-
-### New Products
-![New Products](NewproductSuggestionbylowestsale.png)
-
-### Top 10 Products
-![Top 10 Products](Top10products.png)
+![Division Report](DivisionReport.png)
 
 ### Top 5 Products
-![Top 5 Products](Top5ProductsbyQty.png)
+![Top 5 Products](Top5Products.png)
+
+### Bottom 5 Products
+![Bottom 5 Products](Bottom5Products.png)
+
+### New Products
+![New Products](NewProducts.png)
 
 ### Top 5 Countries
-![Top 5 Countries](JovnpwgHEGMo3d7KsusVA.png)
+![Top 5 Countries](Top5Countries.png)
 
 ## Tools Used
-- Excel (Data Cleaning,PivotTables, Power Query, Power Pivot)
+- Excel (PivotTables, Power Query, Power Pivot)
 - Data Cleaning & Transformation
 
 ## Next Steps
 I will build a 3-year Profit & Loss (P&L) dashboard on a new dataset to showcase financial reporting skills.
+
 
