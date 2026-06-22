@@ -13,22 +13,20 @@ I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and
 
 ## Dashboard Screenshots
 ### Top 10 Products
-![Top 10 Products](Top10Products.png)
+![Top 10 Products](Top10products.png)
 
 ### Division Report
-![Division Report](DivisionReport.png)
-
-### Top 5 Products
-![Top 5 Products](Top5Products.png)
-
-### Bottom 5 Products
-![Bottom 5 Products](Bottom5Products.png)
+![Division Report](Divisionreport.png)
 
 ### New Products
-![New Products](NewProducts.png)
+![New Products](NewproductSuggestionbylowestsale.png)
 
-### Top 5 Countries
-![Top 5 Countries](Top5Countries.png)
+### Top 5 Products
+![Top 5 Products](Top5ProductsbyQty.png)
+
+### Bottom 5 Products
+![Bottom 5 Products](Bottom5productbyQty.png)
+
 
 ## Tools Used
 - Excel (PivotTables, Power Query, Power Pivot)
