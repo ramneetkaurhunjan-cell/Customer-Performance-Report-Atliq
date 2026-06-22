@@ -25,7 +25,7 @@ I analyzed Atliq Hardware’s customer performance using Excel, Power Query, and
 ![Top 5 Products](Top5ProductsbyQty.png)
 
 ### Bottom 5 Products
-![Bottom 5 Products](Bottom5productbyQty.png)
+![Bottom 5 Products](Bottom5products.png)
 
 
 ## Tools & Skills
